@@ -1,4 +1,4 @@
-\# Java Calculator with GUI
+## Java Calculator with GUI
 
 
 
@@ -6,7 +6,7 @@ Simple calculator program with a Swing GUI using WindowBuilder. A runnable JAR f
 
 
 
-\## Features
+## Features
 
 \- Basic arithmetic: add, subtract, multiply, divide
 
@@ -35,7 +35,7 @@ Simple calculator program with a Swing GUI using WindowBuilder. A runnable JAR f
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
@@ -77,6 +77,8 @@ javaCalculator/
 │ └── CalculatorGUI.jar
 
 └── README.md
+
+
 
 
 
