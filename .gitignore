@@ -1,0 +1,23 @@
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+*.launch
+
+# Compiled files
+*.class
+
+# Output directories
+bin/
+target/
+build/
+
+# Ignore common library folders if they appear (like jgoodies or others)
+/lib/
+*.jar
+# EXCEPTION: Do NOT ignore our final distributable JAR
+!/dist/Calculator.jar
+
+# R specific files (if you use R)
+.Rhistory
+.RData
